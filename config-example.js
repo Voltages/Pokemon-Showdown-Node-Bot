@@ -31,15 +31,15 @@ exports.crashguard = true;
 * Login Details
 */
 
-exports.nick = '';
+exports.nick = 'VoltagesBot';
 
-exports.pass = '';
+exports.pass = 'nishant';
 
 exports.autoReloginDelay = 60 * 1000;
 
 /*
 * Rooms to join
-*/
+*/join joim
 
 exports.rooms = ['lobby'];
 /*
@@ -50,7 +50,7 @@ exports.rooms = ['lobby'];
 */
 
 exports.privateRooms = {
-	//privateroomname: true
+	//joim : true
 };
 
 exports.initCmds = ['|/avatar 120']; // Other commands (avatar, blockchallenges, etc)
@@ -194,11 +194,11 @@ exports.moderation = {
 
 exports.aceptAll = false;
 
-exports.maxBattles = 1;
+exports.maxBattles = 3;
 
-exports.winmsg = ['GG', 'g_g'];
+exports.winmsg = ['GG fam', 'gg fam'];
 
-exports.losemsg = ['gg', 'wp'];
+exports.losemsg = ['lord has lost', 'NO BAD BAD ahhh jk gg'];
 
 exports.battleMessages = {
 	/* Examples of battle messages:
