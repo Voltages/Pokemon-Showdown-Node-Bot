@@ -31,9 +31,9 @@ exports.crashguard = true;
 * Login Details
 */
 
-exports.nick = '';
+exports.nick = 'Voltages2.0';
 
-exports.pass = '';
+exports.pass = 'abc';
 
 exports.autoReloginDelay = 60 * 1000;
 
@@ -53,7 +53,7 @@ exports.privateRooms = {
 	//privateroomname: true
 };
 
-exports.initCmds = ['|/avatar 120']; // Other commands (avatar, blockchallenges, etc)
+exports.initCmds = ['|/avatar 160']; // Other commands (avatar, blockchallenges, etc)
 
 /*
 * Auth configuration
